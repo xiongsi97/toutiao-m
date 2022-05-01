@@ -70,3 +70,12 @@
 .toutiao-yuedu:before {
   content: "\e614";
 }
+body {
+  background-color: #f5f7f9;
+}
+.van-nav-bar {
+  background-color: #3296fa;
+}
+.van-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
